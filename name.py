@@ -27,3 +27,4 @@ def friendly_checker():
     return(spisok_end)
 
 print(friendly_checker()) ()) )))))
+dfgdfg
